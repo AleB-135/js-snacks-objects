@@ -5,12 +5,12 @@ const automobili = [
 {   marca: "BMW", modello: "X3", alimentazione: "Diesel",}, 
 {   marca: "Ferrari", modello: "Spider", alimentazione: "Benzina",},
 {   marca: "Dacia", modello: "Bigster", alimentazione: "GPL",}, 
-{   marca: "Volkswagen", modello: "Polo TGI", alimentazione: "Metano",},
+{   marca: "Volkswagen", modello: "Polo TGI", alimentazione: "Benzina",},
 {   marca: "Cupra", modello: "Tavascan", alimentazione: "Elettrico",},
-{   marca: "DR", modello: "6.0", alimentazione: "GPL",}, 
+{   marca: "DR", modello: "6.0", alimentazione: "Diesel",}, 
 {   marca: "Skoda", modello: "Octavia", alimentazione: "Metano",}, 
 {   marca: "Tesla", modello: "Model Y", alimentazione: "Elettrico",},
-{   marca: "Evo", modello: "7", alimentazione: "GPL"}]
+{   marca: "Evo", modello: "7", alimentazione: "Diesel"}]
 
 const autoBenzina = [];
 const autoDiesel = [];
